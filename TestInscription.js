@@ -1,1 +1,1 @@
-Alert (Ceci est un fichier de test des inscription)
+Alert (Bonjour et Bienvenue )
